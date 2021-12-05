@@ -1,0 +1,57 @@
+body{
+    margin: none;
+    font-family: san serif;
+    background-color: goldenrod;
+}
+#para-head{
+    text-align: center;
+    color:rgb(247, 0, 255);
+    background-color: black;
+    width: 184px;
+}
+ul{
+    list-style-type:none;
+    text-align: center;
+}
+ul li {
+  padding: 3%;
+}
+  ul li div{
+    background: skyblue;
+    border:1mm solid black;
+    width: 1000px;
+    margin: auto;
+  }
+  #delete-contact{
+   margin-left: 750px;
+   margin-top: -90px;
+  }
+#hovering:hover{
+    background-color:lawngreen;
+    font-size: large;
+}
+#edit-form{
+       text-align: center;
+       padding: 2%;
+       width: 1200px;
+       height: 100px;
+       margin: auto;
+  }
+  #new-layer{
+    padding:5%;
+    width: auto;
+    background-color: tomato;
+    height: fit-content;
+    border-radius: 5%;
+    border: 14px solid red;
+  }
+  #cont{
+    margin:auto;
+    height:70px;
+    width:500px;
+    background-color:rgba(230, 223, 229, 0.438);
+    font-size: 25px;
+    text-align:left;
+    border:solid;
+    margin-top:-20px;
+}
